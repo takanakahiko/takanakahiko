@@ -1,10 +1,6 @@
 # takanakahiko
 
-<div style="float: left;">
-  <img alt="takanakahiko's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=takanakahiko" />
-</div>
-
-<pre style="float: left;">
+```
 　 ∧∧ ∩
 　( ´∀｀)/　∧∧ ∩
 ⊂　　 ﾉ　　( ´∀｀)/
@@ -19,5 +15,7 @@
 
 　　　　　　　　　　　　　　　　　 ＜⌒／ヽ＿＿＿
 　　　　　　　　　　　　　　　　／＜_/＿＿＿＿／
-</pre>
+```
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=takanakahiko&show_icons=true&include_all_commits=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takanakahiko&layout=compact" />
