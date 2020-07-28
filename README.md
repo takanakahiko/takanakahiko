@@ -16,3 +16,5 @@
 　　　　　　　　　　　　　　　　　 ＜⌒／ヽ＿＿＿
 　　　　　　　　　　　　　　　　／＜_/＿＿＿＿／
 ```
+
+![takanakahiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=takanakahiko)
